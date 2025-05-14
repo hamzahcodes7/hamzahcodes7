@@ -42,23 +42,3 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
-
----
-
-### 💎 Featured Repositories
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**SpinSiswa**](https://github.com/hamzahcodes7/spinsiswa) | A fun randomizer for students, with spin animation & elimination | HTML, CSS, JS |
-| [**SecureForm**](https://github.com/hamzahcodes7/secureform) | Simple secure form with XSS protection and validation | JavaScript, Security |
-| [**MyPortfolio**](https://github.com/hamzahcodes7/myportfolio) | Personal portfolio website with clean design | HTML, Tailwind, JS |
-
----
-
-### 🧠 Random Dev Quote
-
-> “Talk is cheap. Show me the code.” — Linus Torvalds
-
----
-
-### 🧩 Terminal Aesthetic
