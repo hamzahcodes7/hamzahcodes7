@@ -8,21 +8,21 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **web development projects** (frontend & backend)
-- 🌱 I’m currently learning **JavaScript**, **React**, and **Node.js**
-- 👯 I’m open to collaborate on **open source** or **startup ideas**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
-- ⚡ Fun fact: I write clean code like it's poetry
+- 🔭 I’m currently working on **web development projects** (frontend & backend)  
+- 🌱 I’m currently learning **JavaScript**, **React**, and **Node.js**  
+- 👯 I’m open to collaborate on **open source** or **startup ideas**  
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
+- ⚡ Fun fact: I write clean code like it's poetry  
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS, Python
-- **Frontend:** React.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Languages:** JavaScript, HTML, CSS, Python  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase  
+- **Tools:** Git, GitHub, VS Code, Postman  
 
 ---
 
@@ -42,3 +42,24 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
+
+---
+
+# 🎮 Catch the Gem!
+
+**Catch the Gem** adalah game mini buatan saya di mana kamu menggerakkan karakter ke kiri dan kanan untuk menangkap permata yang jatuh dari atas.
+
+![preview](https://user-images.githubusercontent.com/00000000/000000000-0000-0000-0000-000000000000.gif) <!-- Opsional: Tambahkan GIF preview jika ada -->
+
+### Cara Main
+- Gunakan tombol panah **← →** untuk menggerakkan pemain.
+- Tangkap permata sebanyak mungkin dan raih skor tertinggi!
+
+### Mainkan Sekarang
+[**Klik di sini untuk mainkan versi GitHub Pages!**](https://USERNAME.github.io/catch-the-gem/)
+
+> Ganti `USERNAME` dengan nama pengguna GitHub kamu setelah mengupload game ini.
+
+---
+
+### 🗂 Struktur Proyek
