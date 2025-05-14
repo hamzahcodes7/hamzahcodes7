@@ -1,24 +1,28 @@
-<h1 align="center">Hi there, I'm Hamzah! 👋</h1>
+<h1 align="center">Halo, saya Hamzah! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Fullstack+Web+Developer;Passionate+about+clean+code;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Fullstack+Web+Developer;Suka+koding+rapih+dan+bersih;Selalu+belajar+hal+baru" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### Tentang Saya
 
-- 🔭 I’m currently working on **web development projects** (frontend & backend)  
-- 🌱 I’m currently learning **JavaScript**, **React**, and **Node.js**  
-- 👯 I’m open to collaborate on **open source** or **startup ideas**  
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
-- ⚡ Fun fact: I write clean code like it's poetry  
+- 🔭 Saat ini sedang mengerjakan **proyek web development** (frontend & backend)  
+- 🌱 Sedang belajar **JavaScript**, **React**, dan **Node.js**  
+- 👯 Terbuka untuk kolaborasi dalam **open source** atau **ide startup**  
+- 📫 Hubungi saya di: **[your.email@example.com](mailto:your.email@example.com)**  
+- ⚡ Fakta unik: Saya menulis kode serapi puisi  
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS, Python  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,nodejs,express,mongodb,firebase,git,vscode,postman" alt="Skill Icons" />
+</p>
+
+- **Bahasa Pemrograman:** JavaScript, HTML, CSS, Python, C++  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Firebase  
@@ -26,7 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzahcodes7&show_icons=true&theme=tokyonight" />
@@ -35,12 +39,12 @@
 
 ---
 
-### 🔗 Let's Connect!
+### 🔗 Terhubung dengan Saya
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-biru?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portofolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
