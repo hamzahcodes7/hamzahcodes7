@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya Hamzah! 👋</h1>
+<h1 align="center">Halo, saya Hamzah! 👋💖💓💓💘♥️💔♥️💘</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Fullstack+Web+Developer;Suka+koding+rapih+dan+bersih;Selalu+belajar+hal+baru" alt="Typing SVG" />
