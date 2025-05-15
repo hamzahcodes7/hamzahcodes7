@@ -42,9 +42,9 @@
 ### 🔗 Terhubung dengan Saya
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-biru?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100078082917488" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-biru?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto: hamzahwell77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portofolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a https://www.tiktok.com/@mahamzzax?_t=ZS-8wMZ6tGbu57&_r=1"><img src="https://img.shields.io/badge/Portofolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
