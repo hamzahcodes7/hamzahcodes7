@@ -11,7 +11,7 @@
 - 🔭 Saat ini sedang mengerjakan **proyek web development** (frontend & backend)  
 - 🌱 Sedang belajar **JavaScript**, **React**, dan **Node.js**  
 - 👯 Terbuka untuk kolaborasi dalam **open source** atau **ide startup**  
-- 📫 Hubungi saya di: **[your.email@example.com](mailto:your.email@example.com)**  
+- 📫 Hubungi saya di: **[your.hamzahwell77.com](mailto:hamzahwell77@gmail.com)**  
 - ⚡ Fakta unik: Saya menulis kode serapi puisi  
 
 ---
@@ -60,9 +60,9 @@
 - Tangkap permata sebanyak mungkin dan raih skor tertinggi!
 
 ### Mainkan Sekarang
-[**Klik di sini untuk mainkan versi GitHub Pages!**](https://USERNAME.github.io/catch-the-gem/)
+[**Klik di sini untuk mainkan versi GitHub Pages!**](https://hamzahcodes7.github.io/catch-the-gem/)
 
-> Ganti `USERNAME` dengan nama pengguna GitHub kamu setelah mengupload game ini.
+>
 
 ---
 
